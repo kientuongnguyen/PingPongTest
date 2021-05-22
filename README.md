@@ -1,1 +1,1 @@
-# PingPongTest
+Based on https://github.com/hamdyaea/Daylight-Pong-python3
